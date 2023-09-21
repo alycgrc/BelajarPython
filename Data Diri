@@ -1,0 +1,5 @@
+Umur = "15 Tahun"
+Nama = "Angelica"
+School = "BPI"
+
+print(Nama,Umur,School)
