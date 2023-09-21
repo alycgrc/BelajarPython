@@ -1,0 +1,4 @@
+x ='hello gurlss'
+y =18
+print(x)
+print(y)
