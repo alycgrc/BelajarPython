@@ -1,0 +1,6 @@
+buah = ["apel","mangga","ceri"]
+for X in buah:
+     print(X)
+
+for X in "BuahBuahan":
+     print (X)
